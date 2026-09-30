@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Ganesh Kd",
+        "phone": "9003022255",
+        "status": "Failed: Page.wait_for_selector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(\"footer div[contenteditable=\\\"true\\\"], div[role=\\\"dialog\\\"]\") to be visible\n    20 × locator resolved to hidden <div role=\"dialog\" class=\"_av-0\" aria-modal=\"true\" aria-hidden=\"true\" id=\"wauiLanguagePopup_dialog\" aria-label=\"Choose a language\">…</div>\n",
+        "extracted_messages": [],
+        "screenshot_path": "",
+        "timestamp": "2026-09-30T17:03:30.090059Z"
+    }
+]
